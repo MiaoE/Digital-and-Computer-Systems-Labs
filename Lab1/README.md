@@ -1,3 +1,4 @@
+# Lab 1: Circuit logics and Multiplexer
 This first lab is to design a multiplexer (mux) using SystemVerilog and 7400 chips.
 
 A mux is a device that selects one of the inputs as the output. It takes some input values and a selector as the input, 
