@@ -1,0 +1,128 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/1 Courses/2F/ECE253 Digital and Computer Systems/Lab5
+vDisplayCounter
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1667245142
+!i10b 1
+!s100 _k>j;iZOASNN[EY07`0Te0
+IG8m;<VYg_WkB5:XfQk3F52
+S1
+R0
+Z3 w1667237979
+Z4 8part2.sv
+Z5 Fpart2.sv
+!i122 5
+L0 28 11
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z8 !s108 1667245142.000000
+Z9 !s107 part2.sv|
+Z10 !s90 -reportprogress|300|part2.sv|
+!i113 1
+Z11 tCvgOpt 0
+n@display@counter
+vencode_morse
+R1
+Z12 !s110 1667317057
+!i10b 1
+!s100 b6>>FIil5F[Q]M?cgT4ZU0
+I>;>X>kz[>oP4aO;k9ahcK0
+S1
+R0
+Z13 w1667317054
+Z14 8part3.sv
+Z15 Fpart3.sv
+!i122 29
+L0 50 19
+R6
+R7
+r1
+!s85 0
+31
+Z16 !s108 1667317057.000000
+!s107 part3.sv|
+Z17 !s90 -reportprogress|300|part3.sv|
+!i113 1
+R11
+vpart2
+R1
+R2
+!i10b 1
+!s100 4@7mSeA8?EHjLnk@8[1LN3
+IUTmE]joaW:@=1J]eJhRc12
+S1
+R0
+R3
+R4
+R5
+!i122 5
+L0 1 5
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+vpart3
+R1
+R12
+!i10b 1
+!s100 7?:hRFV6=UgICeGY202^71
+IW>ZQ4mG<oz2cz2`mP@9Fm1
+S1
+R0
+R13
+R14
+R15
+!i122 29
+L0 1 23
+R6
+R7
+r1
+!s85 0
+31
+R16
+Z18 !s107 part3.sv|
+R17
+!i113 1
+R11
+vRateDivider
+R1
+R12
+!i10b 1
+!s100 G4zoTf@@U4zJ8<_Xl>TUZ3
+IOfc3>zgPX0DLdN<geXA@10
+S1
+R0
+R13
+R14
+R15
+!i122 29
+L0 25 24
+R6
+R7
+r1
+!s85 0
+31
+R16
+R18
+R17
+!i113 1
+R11
+n@rate@divider

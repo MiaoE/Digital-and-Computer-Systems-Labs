@@ -1,7 +1,10 @@
 # Lab 3:
 First part is to design a 4-bit ripple carry adder in `ripple_adder.sv`, where a ripple adder circuit diagram is shown below.
-![Ripple Adder block diagram](https://www.gatevidyalay.com/wp-content/uploads/2018/06/4-bit-Ripple-Carry-Adder.png)
-![Ripple Adder circuit diagram](https://www.researchgate.net/profile/Nikos-Mastorakis/publication/234773872/figure/fig6/AS:299927193309191@1448519623733/Full-adder-using-XOR-gates-and-a-MUX.png)
+
+![Ripple Adder block diagram](https://qph.cf2.quoracdn.net/main-qimg-468095a1533d72c633269ca6a7409f81)
+
+![Ripple Adder circuit diagram](https://i.stack.imgur.com/BTrKe.png)
+
 ![Full Adde truth table](https://www.computersciencebytes.com/wp-content/uploads/2017/07/half_adder_truth_table_2.png)
 The input ports are described below:
 
