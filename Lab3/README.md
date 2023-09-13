@@ -6,6 +6,7 @@ First part is to design a 4-bit ripple carry adder in `ripple_adder.sv`, where a
 ![Ripple Adder circuit diagram](https://i.stack.imgur.com/BTrKe.png)
 
 ![Full Adde truth table](https://www.computersciencebytes.com/wp-content/uploads/2017/07/half_adder_truth_table_2.png)
+
 The input ports are described below:
 
 | module port name | direction | description |
